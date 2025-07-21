@@ -16,5 +16,4 @@ Este é um sistema de automação que lê e-mails recebidos, envia respostas aut
 
 ---
 
-## 📂 Estrutura do projeto
 
